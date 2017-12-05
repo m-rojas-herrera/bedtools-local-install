@@ -1,6 +1,6 @@
-# bedtools-local-install
-This repositorie shows how to install bedtools locally on your Sofia account
-First download the latest source code of bedtools into your bin folder:
+# bedtools-local-install 
+This repositorie shows how to install bedtools locally on your Sofia account \
+First download the latest source code of bedtools into your bin folder: \
 $ cd $HOME/bin #if you get an error, create the folder using: mkdir $HOME/bin
 $ wget https://github.com/arq5x/bedtools2/releases/download/v2.26.0/bedtools-2.26.0.tar.gz 
 $ tar -zxvf bedtools-2.25.0.tar.gz
